@@ -1,6 +1,6 @@
 # ascending-line
 
-> A rising line implemented using Threejs 预览地址：https://xiaxiangfeng.github.io/ascending-line-threejs/index.html
+> A rising line implemented using Threejs 预览地址：https://xiaxiangfeng.github.io/threejs-flowing-line/index.html
 
 ## 微信交流群
 
@@ -11,7 +11,3 @@
 ## gif
 
 ![Image text](line.gif)
-
-## image
-
-![Image text](line.png)
