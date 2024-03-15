@@ -1,4 +1,4 @@
-# ascending-line
+# flowing-line
 
 > A rising line implemented using Threejs 预览地址：https://xiaxiangfeng.github.io/threejs-flowing-line/index.html
 
